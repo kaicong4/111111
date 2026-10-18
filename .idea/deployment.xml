@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="git@github.com:kaicong4/git.git" remoteFilesAllowedToDisappearOnAutoupload="false">
+  <component name="PublishConfigData" serverName="git@github.com:kaicong4/git.git" uploadOnCheckin="31285d74-ec2a-406d-91dc-2b5ae9432a56" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
       <paths name="git@github.com:kaicong4/git.git">
         <serverdata>
@@ -10,5 +10,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="git@github.com:kaicong4/git.git" />
   </component>
 </project>
