@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" id="0bff9855-c310-45ae-960f-eb15c1614f3b" customName="git@github.com:kaicong4/git.git" nameFormat="CUSTOM" useOpenSSHConfig="true">
+        <option name="customName" value="git@github.com:kaicong4/git.git" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
